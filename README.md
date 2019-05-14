@@ -1,1 +1,1 @@
-Express Server with local and oauth authification
+Express Server with local and oauth authentification

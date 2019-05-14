@@ -1,0 +1,8 @@
+{
+  "mongoURI": "Your Mongo connection string",
+  "JWT_SECRET": "Your JWT Secret",
+  "googleClientId": "Your Google Client ID",
+  "googleClientSecret": "Your Google Client Key",
+  "facebookClientId": "Your Facebook Client ID",
+  "facebookClientSecret": "Your Facebook Client Key"
+}
